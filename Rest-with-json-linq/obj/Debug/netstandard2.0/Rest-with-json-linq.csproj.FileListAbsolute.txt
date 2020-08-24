@@ -1,0 +1,9 @@
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\bin\Debug\netstandard2.0\Rest-with-json-linq.deps.json
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\bin\Debug\netstandard2.0\Rest-with-json-linq.dll
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\bin\Debug\netstandard2.0\Rest-with-json-linq.pdb
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\obj\Debug\netstandard2.0\Rest-with-json-linq.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\obj\Debug\netstandard2.0\Rest-with-json-linq.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\obj\Debug\netstandard2.0\Rest-with-json-linq.AssemblyInfo.cs
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\obj\Debug\netstandard2.0\Rest-with-json-linq.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\obj\Debug\netstandard2.0\Rest-with-json-linq.dll
+C:\Users\hp\Documents\Progamming\C#\working-with-Linq\Rest-with-json-linq\obj\Debug\netstandard2.0\Rest-with-json-linq.pdb

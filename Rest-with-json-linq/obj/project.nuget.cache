@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "guZB8mGKjyZGncJUzq3uYrN9BBWWoxsxTD0yff40dsIW8uwzr8VBPvR8009lBQZ73yJTxX92d/dW4x6xZqiT/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\Progamming\\C#\\working-with-Linq\\Rest-with-json-linq\\Rest-with-json-linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
