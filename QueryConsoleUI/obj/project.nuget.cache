@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRMt+eSNypjscIzmuETTY9vXff/X5fBhJuwCQYDdp4jfvIBxrEMj1jZfdFitdlqkYCs/L02GftxcjAZDnNR+Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\Progamming\\C#\\working-with-Linq\\QueryConsoleUI\\QueryConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
