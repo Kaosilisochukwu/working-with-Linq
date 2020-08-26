@@ -14,7 +14,11 @@ namespace QueryConsoleUI
         /// <returns></returns>
         public static async Task ProcessRequest()
         {
+
+            //Assigned a new instance of Receiver to carrier
             Receiver carrier = new Receiver();
+
+
             Begin:
             var rootUrl = "https://jsonmock.hackerrank.com/api/article_users/search?page=";
             Console.WriteLine("Please enter the page you want query: starting from '1' or type 'E' to exit");
